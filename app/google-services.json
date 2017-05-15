@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94430081287",
+    "firebase_url": "https://chatty-64d3e.firebaseio.com",
+    "project_id": "chatty-64d3e",
+    "storage_bucket": "chatty-64d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94430081287:android:011b2ef5313fe0ff",
+        "android_client_info": {
+          "package_name": "com.mariovrocha.carkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94430081287-vc33imn95huqgh7d7u61uqe8el2lnm80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mariovrocha.carkeeper",
+            "certificate_hash": "91f39feba22893d9d5777a65e12831eab23e4c5c"
+          }
+        },
+        {
+          "client_id": "94430081287-c0q6efp2qj0b5kovgvfstja4mjm5kg0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuCDoQTK7aW-59wnzQU9UQmQGTkYz93g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94430081287-c0q6efp2qj0b5kovgvfstja4mjm5kg0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

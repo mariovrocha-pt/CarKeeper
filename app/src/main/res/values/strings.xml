@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Car Keeper</string>
+    <string name="title_activity_direct_me">Map</string>
+    <string name="direct_menu_item">End This</string>
+    <string name="search">Search</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="message_hint">Write a message</string>
+    <string name="slide_1_title">Get your car washed</string>
+    <string name="slide_1_desc">Wash your car while you\'re at work or school.</string>
+    <string name="slide_2_title">Trust us your car keys</string>
+    <string name="slide_2_desc">You can always locate your car, while he stays with us.</string>
+    <string name="intro_finish">Get Started</string>
+</resources>
